@@ -1,0 +1,3 @@
+#PC Board design notes
+
+For now we will be using Altium for the source file application.
