@@ -1,4 +1,4 @@
-# HandheldELISA
+# Handheld Point of Care ELISA
 Electro Bio Chemical Potentiostat Testing Device for ELISA Test Cards
 # 
   We are seeking contributors for creation of diversified testing device allowing consumable test cards capable of ELISA tests.
