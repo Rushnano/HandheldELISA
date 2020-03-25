@@ -7,6 +7,6 @@ Electro Bio Chemical Potentiostat Testing Device for ELISA Test Cards
 
   The testing devices shall have circuitry and software included to perform a range of potentiostat test methods for a set of 2 electrode circuits. One set of electrodes will be sensing the real analyte response signal and the other set of electrodes will be used for relative reactions as reference. Potentiostat functions should be able to perform high resolution high sensitivity testing using static settings like many glucose meters to more complex features like differential pulse voltammetry.
 
-  The testing device should be capable of near field radio frequency indentification reading for serial number, card test type, and data code to be used for test configuration parameters for that particular sensor card.
+  The testing device should be capable of near field radio frequency indentification reading for serial number, card test type, and date code to be used for test configuration parameters for that particular sensor card.
 
   App supported host connection using bluetooth should be included for intermediary cloud data services and display.
