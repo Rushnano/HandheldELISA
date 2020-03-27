@@ -1,0 +1,9 @@
+1. Add capture antibody to the "work zone" and incubate for 25 minutes at room temperature.
+2. Wash off any unincorporated anibodies with phosphate-buffered-saline (PBS) or blocking buffer using blotting paper.
+3. Incubate with blocking buffer for 30 minutes at room temperature.
+4. Rinse again - see step 2.
+5. Add the analyte solution and incubate for 200 seconds at room temperature.
+6. Wash with blocking buffer / phosphate-buffered-saline link in step 2.
+7. Incubate with the signaling antibody for 200 seconds at room temperature.
+8. Follow with a rinse step like step 2.
+9. Run your test. :)
