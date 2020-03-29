@@ -3,7 +3,9 @@ Electro Bio Chemical Potentiostat Testing Device for ELISA Test Cards
 # 
   We are seeking contributors for creation of diversified testing device allowing consumable test cards capable of ELISA tests.
 
-  The test cards may include protiens, enzymes, antibodies that allow capillary mixing and filtration with analyte so as to cause    a reaction in the working sensing zone. The working zone shall have excitation, sense and reference potentiostat electrodes for electronically sensing the the analyte/antibody reactions. The test card should also include near field radio frequency indentification for serial number, card test type, and data code.
+  The test cards may include protiens, enzymes, antibodies that allow capillary mixing and filtration with analyte so as to cause    a reaction in the working sensing zone. The working zone shall have excitation, sense and reference potentiostat electrodes for electronically sensing the the analyte/antibody reactions. The test card should also include near field radio frequency indentification for serial number, card test type, and date code.
+  
+  Added test card connections may also be included for electrophoresis as these electrodes may be required for fluidic movement. Hopefully we can limit these extra connections to the number of 8.
 
   The testing devices shall have circuitry and software included to perform a range of potentiostat test methods for a set of 2 electrode circuits. One set of electrodes will be sensing the real analyte response signal and the other set of electrodes will be used for relative reactions as reference. Potentiostat functions should be able to perform high resolution high sensitivity testing using static settings like many glucose meters to more complex features like differential pulse voltammetry.
 
